@@ -1,5 +1,5 @@
 # AI Examiner
-The evaluation of subjective answers has long been a challenge for educators, employers, and  researchers. CheckMyAnswer, powered by machine learning algorithms, 
+The evaluation of subjective answers has long been a challenge for educators, employers, and  researchers. AI Examiner, powered by machine learning algorithms, 
 has emerged as a  solution to this challenge.
 
 Traditional methods of grading and assessment can be time-consuming, prone to human error. As 
